@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>seninp.github.io on Pavel Senin</title>
+    <link>https://seninp.github.io/</link>
+    <description>Recent content in seninp.github.io on Pavel Senin</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://seninp.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://seninp.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://seninp.github.io/about/</guid>
+      <description>About Me  I have graduated from the Collaborative Software Development Laboratory, UH Manoa ICS, where Professor Philip M Johnson advised me. The focus of my dissertation research was on empirical software process discovery. Working on this, I have proposed, designed, and developed the Software Trajectory Analysis (STA) framework &amp;ndash; a general approach for recurrent behavior discovery from systematic measurements of software process and product artifacts (i.e., &amp;ldquo;software telemetry&amp;rdquo;). Given a contrast set of measurements (collected from two or more processes), STA leverages the SAX-VSM algorithm and outputs a set of software process-characteristic behaviors for each of the input classes.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://seninp.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://seninp.github.io/contact/</guid>
+      <description> Email: senin@hawaii.edu  Social  Twitter  </description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://seninp.github.io/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://seninp.github.io/projects/</guid>
+      <description>Projects </description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://seninp.github.io/pubs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://seninp.github.io/pubs/</guid>
+      <description>Publications </description>
+    </item>
+    
+  </channel>
+</rss>
