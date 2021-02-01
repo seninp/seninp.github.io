@@ -4,7 +4,305 @@
     <title>seninp.github.io on Pavel Senin</title>
     <link>https://seninp.github.io/</link>
     <description>Recent content in seninp.github.io on Pavel Senin</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://seninp.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://seninp.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Meta-omics provides insights into the impact of hydrocarbon contamination on microbial mat functioning</title>
+      <link>https://seninp.github.io/publications/aube2020meta/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://seninp.github.io/publications/aube2020meta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Surgical motion analysis using discriminative interpretable patterns</title>
+      <link>https://seninp.github.io/publications/forestier2018surgical/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://seninp.github.io/publications/forestier2018surgical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GrammarViz 3.0</title>
+      <link>https://seninp.github.io/publications/senin2018grammarviz/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://seninp.github.io/publications/senin2018grammarviz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Finding discriminative and interpretable patterns in sequences of surgical activities</title>
+      <link>https://seninp.github.io/publications/forestier2017finding/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://seninp.github.io/publications/forestier2017finding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Brief protocol for edge bioinformatics: Analyzing microbial and metagenomic ngs data</title>
+      <link>https://seninp.github.io/publications/chain2017enabling/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://seninp.github.io/publications/chain2017enabling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EDGE 2017 r&amp;D 100 entry with appendix</title>
+      <link>https://seninp.github.io/publications/chain2017edge/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://seninp.github.io/publications/chain2017edge/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discovering discriminative and interpretable patterns for surgical motion analysis</title>
+      <link>https://seninp.github.io/publications/forestier2017discovering/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://seninp.github.io/publications/forestier2017discovering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>STAVIS 2.0: Mining spatial trajectories via motifs</title>
+      <link>https://seninp.github.io/publications/chen2017stavis/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://seninp.github.io/publications/chen2017stavis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The impact of long-term hydrocarbon exposure on the structure, activity, and biogeochemical functioning of microbial mats</title>
+      <link>https://seninp.github.io/publications/aube2016impact/</link>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://seninp.github.io/publications/aube2016impact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RPM: representative pattern mining for efficient time series classification</title>
+      <link>https://seninp.github.io/publications/wang2016rpm/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://seninp.github.io/publications/wang2016rpm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A point mutation in suppressor of cytokine signalling 2 (socs2) increases the susceptibility to inflammation of the mammary gland while associated with higher body weight and size and higher milk production in a sheep model</title>
+      <link>https://seninp.github.io/publications/rupp2015point/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://seninp.github.io/publications/rupp2015point/</guid>
+      <description>Author Summary Mastitis is an inflammation of the mammary gland mainly caused by invading bacteria. Ruminants show natural variability in their predisposition to mastitis, and therefore provide unique models for study of the genetics and physiology of host response to bacterial infection. A genome-wide association study was conducted in a dairy sheep population for milk somatic cell counts as a proxy for mastitis. Fine mapping, using whole genome sequencing, led to the identification of a mutation in the Suppressor of Cytokine Signaling 2 gene (socs2).</description>
+    </item>
+    
+    <item>
+      <title>A generative model for time series discretization based on multiple normal distributions</title>
+      <link>https://seninp.github.io/publications/gandhi2015generative/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://seninp.github.io/publications/gandhi2015generative/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contrasted effects of natural complex mixtures of pahs and metals on oxygen cycle in a microbial mat</title>
+      <link>https://seninp.github.io/publications/pringault2015contrasted/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://seninp.github.io/publications/pringault2015contrasted/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identification et caractérisation d’une mutation dans le gène socs2 (suppressor of cytokine signalling 2) associée &lt;span class=&#34;nocase&#34;&gt;à&lt;/span&gt; la sensibilité aux mammites chez les ovins laitiers</title>
+      <link>https://seninp.github.io/publications/rupp2015identification/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://seninp.github.io/publications/rupp2015identification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Software trajectory analysis: An empirically based method for automated software process discovery</title>
+      <link>https://seninp.github.io/publications/senin2015software/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://seninp.github.io/publications/senin2015software/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Time series anomaly discovery with grammar-based compression</title>
+      <link>https://seninp.github.io/publications/senin2015time/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://seninp.github.io/publications/senin2015time/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GrammarViz 2.0: A tool for grammar-based pattern discovery in time series</title>
+      <link>https://seninp.github.io/publications/senin2014grammarviz/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://seninp.github.io/publications/senin2014grammarviz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MBPD: motif-based period detection</title>
+      <link>https://seninp.github.io/publications/otunba2014mbpd/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://seninp.github.io/publications/otunba2014mbpd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SAX-VSM: interpretable time series classification using SAX and vector space model</title>
+      <link>https://seninp.github.io/publications/senin2013sax/</link>
+      <pubDate>Sun, 01 Dec 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://seninp.github.io/publications/senin2013sax/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparison of normalization methods for differential gene expression analysis in rna-seq experiments: A matter of relative size of studied transcriptomes: A matter of relative size of studied transcriptomes</title>
+      <link>https://seninp.github.io/publications/maza2013comparison/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://seninp.github.io/publications/maza2013comparison/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fine mapping of a qtl for mastitis resistance on oar3 in lacaune dairy sheep</title>
+      <link>https://seninp.github.io/publications/rupp2013fine/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://seninp.github.io/publications/rupp2013fine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>La transition fruit immature/fruit mature: Analyse globale des profils transcriptomiques</title>
+      <link>https://seninp.github.io/publications/roustan2012transition/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://seninp.github.io/publications/roustan2012transition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recognizing recurrent development behaviors corresponding to android os release life-cycle</title>
+      <link>https://seninp.github.io/publications/senin2012recognizing/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://seninp.github.io/publications/senin2012recognizing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Assembling the marine metagenome, one cell at a time</title>
+      <link>https://seninp.github.io/publications/woyke2009assembling/</link>
+      <pubDate>Wed, 01 Apr 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://seninp.github.io/publications/woyke2009assembling/</guid>
+      <description>The difficulty associated with the cultivation of most microorganisms and the complexity of natural microbial assemblages, such as marine plankton or human microbiome, hinder genome reconstruction of representative taxa using cultivation or metagenomic approaches. Here we used an alternative, single cell sequencing approach to obtain high-quality genome assemblies of two uncultured, numerically significant marine microorganisms. We employed fluorescence-activated cell sorting and multiple displacement amplification to obtain hundreds of micrograms of genomic DNA from individual, uncultured cells of two marine flavobacteria from the Gulf of Maine that were phylogenetically distant from existing cultured strains.</description>
+    </item>
+    
+    <item>
+      <title>Experiences with hackystat as a service-oriented architecture</title>
+      <link>https://seninp.github.io/publications/johnson2009experiences/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://seninp.github.io/publications/johnson2009experiences/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Assembling the marine metagenome, one cell at a time</title>
+      <link>https://seninp.github.io/publications/xie2008assembling/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://seninp.github.io/publications/xie2008assembling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Complete genome sequence of the extremely acidophilic methanotroph isolate v4, methylacidiphilum infernorum, a representative of the bacterial phylum verrucomicrobia</title>
+      <link>https://seninp.github.io/publications/hou2008complete/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://seninp.github.io/publications/hou2008complete/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic time warping algorithm review</title>
+      <link>https://seninp.github.io/publications/senin2008dynamic/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://seninp.github.io/publications/senin2008dynamic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Oral pathogen sequence databases at los alamos national laboratory</title>
+      <link>https://seninp.github.io/publications/saw2008oral/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://seninp.github.io/publications/saw2008oral/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Single cell genome reconstruction of two uncultured, proteorhodopsin-containing flavobacteria</title>
+      <link>https://seninp.github.io/publications/woyke2008single/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://seninp.github.io/publications/woyke2008single/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The draft genome of the transgenic tropical fruit tree papaya (carica papaya linnaeus)</title>
+      <link>https://seninp.github.io/publications/ming2008draft/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://seninp.github.io/publications/ming2008draft/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Methane oxidation by an extremely acidophilic bacterium of the phylum verrucomicrobia</title>
+      <link>https://seninp.github.io/publications/dunfield2007methane/</link>
+      <pubDate>Thu, 01 Nov 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://seninp.github.io/publications/dunfield2007methane/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MCMC simulation of interstellar grain chemistry</title>
+      <link>https://seninp.github.io/publications/senin2007mcmc/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://seninp.github.io/publications/senin2007mcmc/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>About</title>
       <link>https://seninp.github.io/about/</link>
@@ -39,7 +337,7 @@ Social  LinkedIn Twitter  </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://seninp.github.io/pubs/</guid>
-      <description>Publications   Aubé,&amp;#32; Senin,&amp;#32; Bonin,&amp;#32; Pringault,&amp;#32; Jeziorski,&amp;#32; Bouchez,&amp;#32; Klopp,&amp;#32; Guyoneaud&amp;#32;&amp;amp;&amp;#32;Goñi-Urriza (2020)  Aubé,&amp;#32; J.,&amp;#32; Senin,&amp;#32; P.,&amp;#32; Bonin,&amp;#32; P.,&amp;#32; Pringault,&amp;#32; O.,&amp;#32; Jeziorski,&amp;#32; C.,&amp;#32; Bouchez,&amp;#32; O.,&amp;#32; Klopp,&amp;#32; C.,&amp;#32; Guyoneaud,&amp;#32; R.&amp;#32;&amp;amp;&amp;#32;Goñi-Urriza,&amp;#32; M. &amp;#32; (2020). &amp;#32;Meta-omics Provides Insights into the Impact of Hydrocarbon Contamination on Microbial Mat Functioning. Microbial Ecology.&amp;#32;1–10.    Senin,&amp;#32; Lin,&amp;#32; Wang,&amp;#32; Oates,&amp;#32; Gandhi,&amp;#32; Boedihardjo,&amp;#32; Chen&amp;#32;&amp;amp;&amp;#32;Frankenstein (2018)  Senin,&amp;#32; P.,&amp;#32; Lin,&amp;#32; J.,&amp;#32; Wang,&amp;#32; X.,&amp;#32; Oates,&amp;#32; T.,&amp;#32; Gandhi,&amp;#32; S.,&amp;#32; Boedihardjo,&amp;#32; A.</description>
+      <description>Publications   Aubé,&amp;#32; Senin,&amp;#32; Bonin,&amp;#32; Pringault,&amp;#32; Jeziorski,&amp;#32; Bouchez,&amp;#32; Klopp,&amp;#32; Guyoneaud&amp;#32;&amp;amp;&amp;#32;Goñi-Urriza (2020)  Aubé,&amp;#32; J.,&amp;#32; Senin,&amp;#32; P.,&amp;#32; Bonin,&amp;#32; P.,&amp;#32; Pringault,&amp;#32; O.,&amp;#32; Jeziorski,&amp;#32; C.,&amp;#32; Bouchez,&amp;#32; O.,&amp;#32; Klopp,&amp;#32; C.,&amp;#32; Guyoneaud,&amp;#32; R.&amp;#32;&amp;amp;&amp;#32;Goñi-Urriza,&amp;#32; M. &amp;#32; (2020). &amp;#32;Meta-omics Provides Insights into the Impact of Hydrocarbon Contamination on Microbial Mat Functioning. Microbial Ecology,&amp;#32;80.&amp;#32;286–295. https://doi.org/10.1007/s00248-020-01493-x    Senin,&amp;#32; Lin,&amp;#32; Wang,&amp;#32; Oates,&amp;#32; Gandhi,&amp;#32; Boedihardjo,&amp;#32; Chen&amp;#32;&amp;amp;&amp;#32;Frankenstein (2018)  Senin,&amp;#32; P.,&amp;#32; Lin,&amp;#32; J.,&amp;#32; Wang,&amp;#32; X.,&amp;#32; Oates,&amp;#32; T.,&amp;#32; Gandhi,&amp;#32; S.,&amp;#32; Boedihardjo,&amp;#32; A.</description>
     </item>
     
   </channel>
